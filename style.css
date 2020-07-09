@@ -37,7 +37,7 @@ h2{
     font-size: 40px;
 }
 .red-highlight{
-    color: rgb(196, 42, 106);
+    color: 	#00aedb;
 }
 p{
     color: dimgray;
@@ -47,7 +47,7 @@ p{
 .link-button{
     
     text-decoration: none;
-    background-color:rgb(196, 42, 106);
+    background-color:#f47835;
     color: white;
     padding: 15px 40px;
     border-radius: 5px;
@@ -87,8 +87,8 @@ p{
 
     margin: 20px 400px;
     height: 100px;
-    color: white;
-    background-color : rgb(187, 30, 82);
+    color: 	#f9fafc;
+    background-color : 	#7bc043;
 }
 
 .footer{
