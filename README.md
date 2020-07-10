@@ -1,2 +1,2 @@
 Check Online Here:
-https://montasimmamun.github.io/MontasimPortfolio2/
+https://montasimmamun.github.io/PersonalPortfolio2/
